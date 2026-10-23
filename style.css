@@ -10,16 +10,17 @@ body{
     background-color: #1F2937;
 }
 .head p {
-    font-size: 24px;
+    font-size: 44px;
     color:#F9FAF8;
 }
 .head{
     display: flex;
     justify-content: space-between;
-    padding: 20px 150px 50px 150px;
+    padding: 30px 400px 80px 400px;
 }
 .head a{
-    font-weight: 400;
+    font-weight: 600;
+    font-size: 25px;
     text-decoration: none;
     color: antiquewhite;
 }
@@ -27,7 +28,7 @@ body{
     margin-left: 20px;
 }
 .hero{
-     padding: 50px 150px 80px 150px;
+     padding:  30px 400px 80px 400px;
      display: flex;
      justify-content: space-evenly;
 }
